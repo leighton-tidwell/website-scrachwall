@@ -1,0 +1,46 @@
+div#container
+{
+	margin: 0 auto 0 auto;
+	width: 700px;
+}
+
+canvas#swcanvas
+{
+	border: 5px solid #000000;
+}
+
+div#palete
+{
+	float: right;
+}
+
+.colorblock
+{
+	height: 40px;
+	width: 40px;
+}
+
+div#black
+{
+	background-color: #000000;
+}
+
+div#white
+{
+	background-color: #FFFFFF;
+}
+
+div#red
+{
+	background-color: #FF0000;
+}
+
+div#blue
+{
+	background-color: #0000FF;
+}
+
+div#green
+{
+	background-color: #00FF00;
+}
